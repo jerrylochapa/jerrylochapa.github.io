@@ -1,7 +1,7 @@
 .topnav {
   overflow: hidden;
   margin: auto;
-  background-color: #5B4E77;
+  background-color: #482d3a;
 }
 
 .topnav a {
@@ -38,7 +38,7 @@ nav ul
 
 body
 {
-	font-family: Palatino;
+	font-family: 'Economica', sans-serif;
 	color: #CB2D6F;
 	background-color: #46344E;
 	margin-left: 150px;
@@ -60,9 +60,19 @@ main
 	margin-right: 100px;
 }
 
+
+#rectangleGuide{
+	  margin: auto;
+	  text-align:left;
+	  background-color: #482d3a;
+	  line-height:30px;
+	  padding:10px;
+}
+
+
 h1, h2, h3
 {
-	font-family: Cambria, Cochin, Georgia, serif;
+	font-family: 'Contrail One', cursive;
 	text-align: center;
 	line-height: 0px;
 	
